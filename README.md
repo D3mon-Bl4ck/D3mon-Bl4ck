@@ -1,5 +1,12 @@
-## Hi there 👋
+## Just me 💀⛓️
 
+Meu nome é Felipe Marques
+Estou estudando como auxílio do Alura
+Estou desenvolvendo projetos na linguagem JavaScript
+Meu e-mail de contato é: felipedinossauroms@gmail.com
+
+
+![](https://media1.tenor.com/m/X9_jzMr_LGcAAAAC/vault-boy.gif)
 <!--
 **D3mon-Bl4ck/D3mon-Bl4ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
